@@ -83,25 +83,16 @@
                 class="contact-me"
                 style="background-color: #223040; color: white"
               >
-                <a
-                  href="https://www.facebook.com/KaptainBoshkash"
-                  target="_blank"
-                >
+                <a href="" target="_blank">
                   <i class="fa-brands fa-facebook"></i>
                 </a>
-                <a href="https://github.com/AbdulJaleel97" target="_blank">
+                <a href="" target="_blank">
                   <i class="fa-brands fa-github"></i>
                 </a>
-                <a
-                  href="https://www.linkedin.com/in/abduljaleel97/"
-                  target="_blank"
-                >
+                <a href="" target="_blank">
                   <i class="fa-brands fa-linkedin"></i>
                 </a>
-                <a
-                  href="https://abduljaleel-portfolio.netlify.app/"
-                  target="_blank"
-                >
+                <a href="" target="_blank">
                   <i class="fa-solid fa-link"></i>
                 </a>
               </div>
@@ -109,7 +100,7 @@
           </div>
         </div>
         <router-link to="/contact" class="need-help"
-          >Need Help? (+99) 0123-456-789</router-link
+          >Need Help? (+99) 348-3435604</router-link
         >
       </div>
     </div>

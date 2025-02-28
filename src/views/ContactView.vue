@@ -41,10 +41,8 @@
             <i class="fa-solid fa-house"></i>33 New Montgomery St. Ste 750 San
             Francisco, CA, USA 94105
           </li>
-          <li><i class="fa-solid fa-phone"></i>(+99) 0123-456-789</li>
-          <li>
-            <i class="fa-solid fa-envelope"></i>AbdulJaleelSaeed1997@gmail.com
-          </li>
+          <li><i class="fa-solid fa-phone"></i>(+92) 348-3435604</li>
+          <li><i class="fa-solid fa-envelope"></i>moinahmedsm1199@gmail.com</li>
           <li><i class="fa-solid fa-clock"></i>Monday – Friday 10 AM – 8 PM</li>
         </ul>
       </div>

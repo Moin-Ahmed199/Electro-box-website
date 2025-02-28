@@ -6,20 +6,15 @@
           <h2 class="header">Contact Us</h2>
           <p class="para">El-Zawya City - Jelato's Palace</p>
           <a class="mail" href="mailto:AbdulJaleelSaeed1997@gmail.com"
-            >AbdulJaleelSaeed1997@gmail.com</a
+            >moinahmedsm1199@gmail.com</a
           >
-          <span style="display: block">+20 1100-8000-30</span>
+          <span style="display: block">+923483435604</span>
           <div class="social">
-            <a href="https://www.facebook.com/KaptainBoshkash" target="_blank">
+            <a href="" target="_blank">
               <i class="fa-brands fa-facebook"></i
             ></a>
-            <a href="https://github.com/AbdulJaleel97" target="_blank"
-              ><i class="fa-brands fa-github"></i
-            ></a>
-            <a
-              href="https://www.linkedin.com/in/abduljaleel-mohammed-80279a25a/"
-              target="_blank"
-            >
+            <a href="" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="" target="_blank">
               <i class="fa-brands fa-linkedin"></i
             ></a>
           </div>
@@ -73,23 +68,17 @@
                     Emirates
                   </p>
                   <a href="mailto:AbdulJaleelSaeed1997@gmail.com"
-                    >AbdulJaleelSaeed1997@gmail.com</a
+                    >moinahmedsm1199@gmail.com</a
                   >
-                  <span style="display: block">+20 1100-8000-30</span>
+                  <span style="display: block">+923483435604</span>
                   <div class="social">
-                    <a
-                      href="https://www.facebook.com/KaptainBoshkash"
-                      target="_blank"
-                    >
+                    <a href="" target="_blank">
                       <i class="fa-brands fa-facebook"></i
                     ></a>
-                    <a href="https://github.com/AbdulJaleel97" target="_blank"
+                    <a href="" target="_blank"
                       ><i class="fa-brands fa-github"></i
                     ></a>
-                    <a
-                      href="https://www.linkedin.com/in/abduljaleel-mohammed-80279a25a/"
-                      target="_blank"
-                    >
+                    <a href="" target="_blank">
                       <i class="fa-brands fa-linkedin"></i
                     ></a>
                   </div>

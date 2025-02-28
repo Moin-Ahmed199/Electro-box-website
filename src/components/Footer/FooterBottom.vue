@@ -1,11 +1,9 @@
 <template>
   <div class="footer-bottom">
     <div class="container">
-      &copy; 2023, Electbox - Electronics Store - Shopify.<br />
+      &copy; 2025, Electbox - Electronics Store - Shopify.<br />
       <span>Made With <i class="fa-solid fa-heart"></i> by </span>
-      <a href="https://abduljaleel-portfolio.netlify.app/" target="_blank"
-        >Moin Ahmed</a
-      >
+      <a href="" target="_blank">Moin Ahmed</a>
     </div>
   </div>
 </template>
