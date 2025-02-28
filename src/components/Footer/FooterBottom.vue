@@ -4,7 +4,7 @@
       &copy; 2023, Electbox - Electronics Store - Shopify.<br />
       <span>Made With <i class="fa-solid fa-heart"></i> by </span>
       <a href="https://abduljaleel-portfolio.netlify.app/" target="_blank"
-        >AbdulJaleel Mohammad</a
+        >Moin Ahmed</a
       >
     </div>
   </div>
